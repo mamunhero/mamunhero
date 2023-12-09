@@ -26,3 +26,7 @@ I am Mahmudul Hasan Mamun, a frontend developer proficient in HTML, CSS, and Jav
 
 
 # Projects
+### Project Name: ElectroniTech
+  - gitgub clien side : https://github.com/mamunhero/assignment-10-automotive-client-side
+  - guthub server side: https://github.com/mamunhero/assignment-10-automotive-server-side
+  - live Link : https://electronitech-87c2d.web.app
