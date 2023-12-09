@@ -27,6 +27,14 @@ I am Mahmudul Hasan Mamun, a frontend developer proficient in HTML, CSS, and Jav
 
 # Projects
 ### Project Name: ElectroniTech
-  - gitgub clien side : https://github.com/mamunhero/assignment-10-automotive-client-side
+  - gitgub client side : https://github.com/mamunhero/assignment-10-automotive-client-side
   - guthub server side: https://github.com/mamunhero/assignment-10-automotive-server-side
   - live Link : https://electronitech-87c2d.web.app
+### Project Name: HeavenlyHavens
+  - github client side: https://github.com/mamunhero/assignment-11-client-side
+  - github server side: https://github.com/mamunhero/assignment-11-server-side
+  - live Link : https://heavenlyhavens-hotel-booking.web.app
+### Project Name: TourBd
+  - github client side : https://github.com/mamunhero/assignment-12-client-side
+  - github server side : https://github.com/mamunhero/assignment-12-server-side
+  - live Link : https://tourbd-71ec9.web.app/
